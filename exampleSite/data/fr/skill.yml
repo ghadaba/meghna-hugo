@@ -16,5 +16,3 @@ skill:
     percent: 90%
   - name: Analysis
     percent: 70%
-  - name: Design
-    percent: 80%
