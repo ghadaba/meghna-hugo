@@ -5,7 +5,7 @@ banner:
   bg_image: images/bg.jpg
   icon: ''
   title: Here We Boost
-  content: Nous sommes une équipe
+  content: Cabinet de conseil en informatique et en transformation digitale
   button:
     enable: true
     label: Start a project with us
