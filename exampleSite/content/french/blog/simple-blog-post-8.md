@@ -2,7 +2,7 @@
 title: Pourquoi avez-vous besoin d'un site Web?
 date: 2022-04-17T23:00:00+00:00
 image_webp: ''
-image: "/images/arnold-francisca-3ua-ftfb3es-unsplash.jpg"
+image: "/images/pc.jpg"
 author: John Doe
 description: This is meta description
 
