@@ -30,18 +30,12 @@ team:
     social:
     - icon: ti-linkedin
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Ons KHELIFI
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: SEO Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
