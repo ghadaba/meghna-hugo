@@ -1,7 +1,7 @@
 ---
 title: Pourquoi avez-vous besoin d'un site Web?
 date: 2022-04-18T08:51:12+00:00
-image_webp: "/images/ilya-pavlov-oqtafyt5ktw-unsplash.jpg"
+image_webp: "/images/backgrounds/hero-area.webp"
 image: ''
 author: John Doe
 description: This is meta description
