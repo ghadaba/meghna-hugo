@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: bg-webp.webp
-  bg_image: job-g56ca57498_1920.jpg
+  bg_image_webp: exampleSite/static/images/bg-webp.webp
+  bg_image: exampleSite/static/images/job-g56ca57498_1920.jpg
   icon: ''
   title: Here We Boost
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
