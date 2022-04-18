@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Notre équipe
   team_member:
   - name: Selimeddine SAAD
     image_webp: images/team/team-1.webp
