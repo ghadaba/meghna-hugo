@@ -8,5 +8,5 @@ banner:
   content: Cabinet de conseil en informatique et en transformation digitale
   button:
     enable: true
-    label: Start a project with us
+    label: choisissez-nous !
     link: "#pricing"
